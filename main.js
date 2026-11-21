@@ -13457,7 +13457,7 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "hv2-hero-grid", "aria-hidden": "true" }),
         /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "hv2-eyebrow hv2-rise", children: [
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("span", { className: "hv2-dot" }),
-          "GRAPHIC DESIGNER \xB7 PORTFOLIO 2026"
+          "GRAPHIC DESIGNER \xB7 PORTFOLIO 2027"
         ] }),
         /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "hv2-stage", children: [
           /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("h1", { className: "hv2-name", "aria-label": "Hamed Ashraf", children: [
@@ -13473,7 +13473,7 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
             /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("img", { src: portrait, alt: "Portrait of Hamed Ashraf in a black jacket with blue edge lighting" }),
             /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "hv2-disc-tag", children: [
               /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("span", { className: "hv2-dot" }),
-              "Design in motion."
+              "BEYOND THE VISUAL"
             ] })
           ] }),
           floats.map((f2, i) => /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "hv2-float hv2-rise", title: f2.label, style: { left: `${f2.x}%`, top: `${f2.y}%`, width: f2.s, height: f2.s, fontSize: Math.round(f2.s * 0.42), "--d": f2.d, animationDelay: `${0.5 + i * 0.12}s` }, children: /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("span", { className: `hv2-float-in hv2-anim-${f2.a}`, style: { animationDelay: `${f2.delay}s` }, children: /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(ToolMark, { kind: f2.kind }) }) }, i)),
@@ -13507,11 +13507,13 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
         ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "hv2-ticker", "aria-hidden": "true", children: /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { children: Array.from({ length: 4 }, (_2, i) => /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("span", { children: [
-        "BEYOND THE VISUAL ",
+        "HAMED ASHRAF ",
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("b", { children: "\u2726" }),
-        " DESIGN IN MOTION ",
+        " BEYOND THE VISUAL ",
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("b", { children: "\u2726" }),
-        " PIXELS WITH PURPOSE ",
+        " PORTFOLIO 2027 ",
+        /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("b", { children: "\u2726" }),
+        " 3 YEARS OF EXPERIENCE ",
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("b", { children: "\u2726" }),
         " "
       ] }, i)) }) }),

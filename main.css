@@ -6596,3 +6596,12 @@ body {
   }
 }
 /*! tailwindcss v3.4.19 | MIT License | https://tailwindcss.com*/
+
+/* Standalone-host desktop fix: outside the Instinct viewer there is no light ground
+   around the card, so on wide screens let the site fill the viewport and match its
+   own dark background. Phone rendering (data-width=phone) is intentionally untouched. */
+@media (min-width: 768px) {
+  html, body { background: #090b11; }
+  #root > .file-card { max-width: none; padding: 0; }
+  #root > .file-card > .hv2-site { margin: 0; }
+}

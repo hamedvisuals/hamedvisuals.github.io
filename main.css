@@ -1,4 +1,4 @@
-/* ../../opt/files/kit/design.css */
+
 *,
 :after,
 :before {
@@ -746,28 +746,28 @@ body {
 }
 @font-face {
   font-family: GT America;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/2L3TNOC4.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/2L3TNOC4.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: GT America;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/GWBPHQBQ.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/GWBPHQBQ.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: GT America;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/6HBTCF3E.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/6HBTCF3E.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Season Mix;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/7UAGB34N.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/7UAGB34N.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -775,7 +775,7 @@ body {
 }
 @font-face {
   font-family: Season Mix;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/ZITNQAWX.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/ZITNQAWX.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -783,28 +783,28 @@ body {
 }
 @font-face {
   font-family: Aime;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/RK4X2PXO.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/RK4X2PXO.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Aime;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/E34RMFMI.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/E34RMFMI.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Aime;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/DCUCO6EG.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/DCUCO6EG.woff2") format("woff2");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: KMR Melange Grotesk;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/WM77GZQE.ttf?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("truetype");
+  src: url("assets/WM77GZQE.ttf") format("truetype");
   font-weight: 350;
   font-style: normal;
   font-display: swap;
@@ -812,7 +812,7 @@ body {
 }
 @font-face {
   font-family: KMR Melange Grotesk;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/EDUFJISK.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/EDUFJISK.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -820,7 +820,7 @@ body {
 }
 @font-face {
   font-family: KMR Melange Grotesk;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/ESVYJHOG.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/ESVYJHOG.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -828,7 +828,7 @@ body {
 }
 @font-face {
   font-family: KMR Melange Grotesk;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/PQNVRRKH.otf?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("opentype");
+  src: url("assets/PQNVRRKH.otf") format("opentype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -1066,7 +1066,7 @@ body {
 }
 @font-face {
   font-family: Aime;
-  src: url("https://filerevision-01m7xhf7pw9df2cek5m1pt4dp9.instinctusercontent.com/assets/KZYIEKM3.woff2?lease=eyJmIjoiZmlsZS0wMU03WEFLSlFXRFdWVlZWR1BLNFNERTVENiIsInIiOiJmaWxlcmV2aXNpb24tMDFNN1hIRjdQVzlERjJDRUs1TTFQVDREUDkiLCJvIjoidXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRSIsInUiOiIiLCJtIjoibGFyZ2UtcGF5bG9hZHMvdXNlci0wMU03V1hOU0s3MDVUWFZWM05LSk1aUVRZRS9ob3N0ZWQtZmlsZS9maWxlLTAxTTdYQUtKUVdEV1ZWVlZHUEs0U0RFNUQ2L2I0MDM3NzkwNDY1NjI2NGFiNjRmYjdlMzQ2MTA1NDZhYjI5NmU3MmE4MWFlNjk1NWJjZmM5MmYwMDlhNDhhYjgiLCJpIjoxNzk1MjE3MTQ0LCJlIjoxNzk1MjE3MjA0fQ.-dD0_Ydhl0A1O77IN20uU5HDsgmXe9ertGqHt70Y-Qs") format("woff2");
+  src: url("assets/KZYIEKM3.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -1231,7 +1231,7 @@ html.ds-sheet-frame body {
   }
 }
 
-/* ../../opt/files/kit/library.css */
+
 :root {
   --file-font-scripts:
     "Noto Sans Hebrew",
@@ -1268,7 +1268,7 @@ html.ds-sheet-frame body {
   letter-spacing: calc(-0.01em * var(--file-tracking));
   -webkit-font-smoothing: antialiased;
 }
-.file-card {
+.portfolio-frame {
   box-sizing: border-box;
   width: 100%;
   max-width: 1040px;
@@ -1286,20 +1286,20 @@ html.ds-sheet-frame body {
   letter-spacing: calc(-0.01em * var(--file-tracking));
   overflow-wrap: break-word;
 }
-.file-card[data-width=phone] {
+.portfolio-frame[data-width=phone] {
   max-width: 390px;
 }
-.file-ground .file-card {
+.file-ground .portfolio-frame {
   border-radius: 24px;
   box-shadow: var(--file-shadow);
 }
-.file-card > * {
+.portfolio-frame > * {
   min-width: 0;
 }
-:where(.file-card) a {
+:where(.portfolio-frame) a {
   color: var(--ds-ink);
 }
-.file-card :focus-visible {
+.portfolio-frame :focus-visible {
   outline: 2px solid var(--ds-ink);
   outline-offset: 2px;
 }
@@ -2272,16 +2272,8 @@ html.ds-sheet-frame body {
     --file-placeholder-draw: 2;
   }
 }
-:is(.file-row-slot, .file-photo-card-photo):has(> img:not([data-instinct-loading])) > .file-placeholder {
-  display: none;
-}
 :is(.file-row-slot, .file-photo-card-photo) > img {
   position: relative;
-}
-:is(.file-row-slot, .file-photo-card-photo) > img[data-instinct-loading] {
-  opacity: 0;
-  background: none;
-  animation: none;
 }
 @media (prefers-reduced-motion: reduce) {
   [data-live-id] :is(.file-row-slot, .file-photo-card-photo) img,
@@ -2572,7 +2564,7 @@ html.ds-sheet-frame body {
 .file-strip + .file-caption {
   margin-top: 12px;
 }
-.file-card > :is(.file-photos, .file-strip) + .file-caption {
+.portfolio-frame > :is(.file-photos, .file-strip) + .file-caption {
   margin-top: -36px;
 }
 .file-text > :is(.file-photos, .file-strip) + .file-caption {
@@ -3866,13 +3858,6 @@ html.ds-sheet-frame body {
   outline-offset: 2px;
 }
 @media (max-width: 767px) {
-  html[data-instinct-modal-viewport] :is(.file-drawer, .file-product-modal):modal {
-    bottom: calc(var(--instinct-modal-bottom) - 160px) !important;
-    height: auto;
-    max-height: calc(var(--instinct-modal-height) + 160px) !important;
-    padding-bottom: 184px;
-    scroll-padding-bottom: 160px;
-  }
 }
 .file-product-zoom:focus-visible {
   outline-offset: -2px;
@@ -4208,11 +4193,6 @@ button.file-dot {
 .file-viewer[data-leaving] .file-viewer-stage {
   animation: file-dialog-shrink-out 200ms ease-in both;
 }
-html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leaving]),
-html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leaving])::backdrop,
-html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leaving]) * {
-  animation-play-state: paused;
-}
 @keyframes file-dialog-rise-in {
   from {
     transform: translateY(48px);
@@ -4331,7 +4311,7 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
   min-height: 0;
   overflow: hidden;
 }
-.file-image-body > .file-card {
+.file-image-body > .portfolio-frame {
   min-height: 0;
   padding: 0;
   max-width: none;
@@ -4436,7 +4416,7 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
   font-size: var(--file-small);
   line-height: 20px;
 }
-.file-image .file-card {
+.file-image .portfolio-frame {
   font-size: var(--file-small);
   line-height: 20px;
 }
@@ -4468,11 +4448,11 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
   .file-ground {
     padding: 36px;
   }
-  .file-card {
+  .portfolio-frame {
     --file-pad-x: 36px;
     padding: 36px;
   }
-  .file-card[data-width=phone] {
+  .portfolio-frame[data-width=phone] {
     --file-pad-x: 24px;
     padding: 24px 24px;
   }
@@ -4576,14 +4556,14 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
   }
 }
 @media (max-width: 600px) {
-  .file-card .file-button,
-  .file-card .file-product-toggle {
+  .portfolio-frame .file-button,
+  .portfolio-frame .file-product-toggle {
     min-height: 44px;
   }
-  .file-card .file-button[data-state] {
+  .portfolio-frame .file-button[data-state] {
     --file-button-inset: 14px;
   }
-  .file-card .file-button.is-pill {
+  .portfolio-frame .file-button.is-pill {
     --file-button-icon-pad: 14px;
   }
   .file-viewer .file-viewer-button:not(.file-close) {
@@ -4591,7 +4571,7 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
     height: 44px;
   }
   .file-close,
-  .file-card .file-close {
+  .portfolio-frame .file-close {
     height: 32px;
     min-height: 32px;
   }
@@ -4599,7 +4579,7 @@ html[data-instinct-modal-ack][data-instinct-modal-pending] :modal:not([data-leav
     gap: 12px;
   }
   .file-size,
-  .file-card .file-size {
+  .portfolio-frame .file-size {
     height: 32px;
     min-height: 32px;
     min-width: 38px;
@@ -4924,8 +4904,8 @@ button.file-compare-head {
     background: var(--ds-white);
     padding: 0;
   }
-  .file-card,
-  .file-ground .file-card {
+  .portfolio-frame,
+  .file-ground .portfolio-frame {
     box-shadow: none;
     max-width: none;
     border-radius: 0;
@@ -4979,7 +4959,7 @@ button.file-compare-head {
   letter-spacing: 0;
 }
 
-/* src/style.css */
+
 html,
 body,
 #root {
@@ -6595,13 +6575,11 @@ body {
     font-size: 9px;
   }
 }
-/*! tailwindcss v3.4.19 | MIT License | https://tailwindcss.com*/
 
-/* Standalone-host desktop fix: outside the Instinct viewer there is no light ground
-   around the card, so on wide screens let the site fill the viewport and match its
-   own dark background. Phone rendering (data-width=phone) is intentionally untouched. */
+
+
 @media (min-width: 768px) {
   html, body { background: #090b11; }
-  #root > .file-card { max-width: none; padding: 0; }
-  #root > .file-card > .hv2-site { margin: 0; }
+  #root > .portfolio-frame { max-width: none; padding: 0; }
+  #root > .portfolio-frame > .hv2-site { margin: 0; }
 }
